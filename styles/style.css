@@ -201,7 +201,7 @@ p, h1, h2, h3, h4, h5, ul {
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
-  text-align: center
+  text-align: center;
 }
 
 .feynman__subtitle {
@@ -209,7 +209,7 @@ p, h1, h2, h3, h4, h5, ul {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  text-align: center
+  text-align: center;
 }
 
 .feynman__link {
@@ -219,7 +219,7 @@ p, h1, h2, h3, h4, h5, ul {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  text-align: center
+  text-align: center;
 }
 
 .kaufman {
@@ -279,7 +279,7 @@ p, h1, h2, h3, h4, h5, ul {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  color: white
+  color: white;
 }
 
 .table__text_theme_dark {
@@ -325,14 +325,14 @@ p, h1, h2, h3, h4, h5, ul {
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  color: white
+  color: white;
 }
 
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-  color: white
+  color: white;
 }
 
 .footer__column-links {
@@ -347,7 +347,7 @@ p, h1, h2, h3, h4, h5, ul {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  color: white
+  color: white;
 }
 
 .footer__column-link:hover {
